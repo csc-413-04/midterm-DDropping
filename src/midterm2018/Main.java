@@ -1,3 +1,7 @@
+// I just realized that you probably wanted me to create methods for each question and then call the methods at the end to print out the anwser. But I dont have enough time to change it. D:
+
+
+
 package midterm2018;
 
 import com.google.gson.Gson;
